@@ -1,6 +1,6 @@
 # Browser & User Agent Statistics
 
-This library provides monthly breakdowns of user agent (aka browser or client) statistics. It's based on Zenlogin API requests, which represent a wide-array of real-world use cases. This data is intended to be for informational purposes only.
+This library provides breakdowns of browser (aka user agents or clients) statistics. It's based on Zenlogin API requests, which represent a wide-array of real-world use cases. This data is intended to be for informational purposes only.
 
 Breakdowns will feature at most the **top 25** items.
 
