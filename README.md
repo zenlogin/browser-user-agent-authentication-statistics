@@ -1,4 +1,8 @@
-# browser-statistics-monthly-breakdown
+# Browser Statistics: Monthly Breakdowns
+
+This library provides monthly breakdowns of user agent (aka browser or client) statistics. It's based on Zenlogin API requests, which represent a wide-array of real-world use cases. This data is intended to be for informational purposes only.
+
+If you're looking for structured data, please contact [github@zenlogin.co](mailto:github@zenlogin.co).
 
 ### November 2023
 | User Agent | Percentage | Mobile |
