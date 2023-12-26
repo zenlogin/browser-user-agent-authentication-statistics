@@ -38,7 +38,6 @@ for more information.
 | 24 | Microsoft Edge | `101` | | ✅ | 0.17% |
 | 25 | Samsung Browser | `16` | ✅ | | 0.14% |
 
-
 ### April 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

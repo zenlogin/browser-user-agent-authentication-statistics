@@ -38,7 +38,6 @@ for more information.
 | 24 | Firefox | `91` | | ✅ | 0.68% |
 | 25 | Microsoft Edge | `96` | | ✅ | 0.67% |
 
-
 ### 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

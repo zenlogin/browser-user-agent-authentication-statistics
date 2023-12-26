@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `109` | ✅ | | 0.18% |
 | 25 | Samsung Browser | `20` | ✅ | | 0.16% |
 
-
 ### March 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

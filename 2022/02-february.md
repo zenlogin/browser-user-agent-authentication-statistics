@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `91` | | ✅ | 0.18% |
 | 25 | Chrome v98 (Tablet) | `98` | | ✅ | 0.18% |
 
-
 ### February 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

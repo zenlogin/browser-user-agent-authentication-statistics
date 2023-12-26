@@ -38,7 +38,6 @@ for more information.
 | 24 | Safari | `11` | | ✅ | 0.12% |
 | 25 | Firefox | `85` | | ✅ | 0.12% |
 
-
 ### August 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

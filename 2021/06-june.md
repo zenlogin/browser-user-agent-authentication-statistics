@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `89` | ✅ | | 0.13% |
 | 25 | Safari | `11` | | ✅ | 0.11% |
 
-
 ### June 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

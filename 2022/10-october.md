@@ -38,7 +38,6 @@ for more information.
 | 24 | Firefox | `104` | | ✅ | 0.27% |
 | 25 | Samsung Browser | `18` | ✅ | | 0.26% |
 
-
 ### October 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

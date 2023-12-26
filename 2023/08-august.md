@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `100` | | ✅ | 0.23% |
 | 25 | Safari | `13` | | ✅ | 0.22% |
 
-
 ### August 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

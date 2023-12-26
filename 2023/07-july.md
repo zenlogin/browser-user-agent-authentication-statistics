@@ -38,7 +38,6 @@ for more information.
 | 24 | Safari | `13` | | ✅ | 0.18% |
 | 25 | Safari | `15` | ✅ | | 0.16% |
 
-
 ### July 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

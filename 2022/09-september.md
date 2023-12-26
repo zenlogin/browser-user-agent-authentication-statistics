@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome v105 (Tablet) | `105` | | ✅ | 0.26% |
 | 25 | Opera | `89` | | ✅ | 0.21% |
 
-
 ### September 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

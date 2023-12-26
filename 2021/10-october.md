@@ -38,7 +38,6 @@ for more information.
 | 24 | Opera | `78` | | ✅ | 0.21% |
 | 25 | Chrome | `87` | | ✅ | 0.21% |
 
-
 ### October 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

@@ -38,7 +38,6 @@ for more information.
 | 24 | Opera | `104` | | ✅ | 0.3% |
 | 25 | Chrome | `112` | | ✅ | 0.3% |
 
-
 ### November 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

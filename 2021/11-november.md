@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome v95 (Tablet) | `95` | | ✅ | 0.25% |
 | 25 | Firefox | `78` | | ✅ | 0.25% |
 
-
 ### November 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

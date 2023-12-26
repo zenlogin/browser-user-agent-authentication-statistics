@@ -38,7 +38,6 @@ for more information.
 | 24 | Firefox | `117` | | ✅ | 0.22% |
 | 25 | Yandex.Browser | `23` | | ✅ | 0.22% |
 
-
 ### October 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

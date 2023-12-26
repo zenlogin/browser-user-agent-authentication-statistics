@@ -38,7 +38,6 @@ for more information.
 | 24 | Safari | `15` | ✅ | | 0.16% |
 | 25 | Safari v15 (Tablet) | `15` | | ✅ | 0.15% |
 
-
 ### February 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

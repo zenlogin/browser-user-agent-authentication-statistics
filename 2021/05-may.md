@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `89` | ✅ | | 0.13% |
 | 25 | Chrome v87 (Tablet) | `87` | | ✅ | 0.13% |
 
-
 ### May 2021 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

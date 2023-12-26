@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `81` | | ✅ | 0.2% |
 | 25 | Chrome | `101` | ✅ | | 0.2% |
 
-
 ### June 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

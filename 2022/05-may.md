@@ -38,7 +38,6 @@ for more information.
 | 24 | Chrome | `97` | | ✅ | 0.18% |
 | 25 | Firefox | `78` | | ✅ | 0.16% |
 
-
 ### May 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

@@ -38,7 +38,6 @@ for more information.
 | 24 | Firefox | `105` | | ✅ | 0.26% |
 | 25 | Chrome v108 (Tablet) | `108` | | ✅ | 0.24% |
 
-
 ### January 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |

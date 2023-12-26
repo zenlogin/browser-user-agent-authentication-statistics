@@ -38,7 +38,6 @@ for more information.
 | 24 | Safari v16 (Tablet) | `16` | | ✅ | 0.19% |
 | 25 | Firefox | `102` | | ✅ | 0.18% |
 
-
 ### November 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
