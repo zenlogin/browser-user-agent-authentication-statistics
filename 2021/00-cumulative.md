@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### 2021 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `91` | | ✅ | 13.29% |
-| 2 | Chrome | `89` | | ✅ | 12.4% |
-| 3 | Chrome | `90` | | ✅ | 11.14% |
-| 4 | Chrome | `92` | | ✅ | 9.66% |
-| 5 | Chrome | `96` | | ✅ | 6.58% |
-| 6 | Chrome | `94` | | ✅ | 6.25% |
-| 7 | Chrome | `93` | | ✅ | 5.76% |
-| 8 | Chrome | `95` | | ✅ | 5.11% |
-| 9 | Safari | `14` | | ✅ | 3.88% |
-| 10 | Safari | `13` | | ✅ | 1.59% |
-| 11 | Microsoft Edge | `91` | | ✅ | 1.21% |
-| 12 | Firefox | `89` | | ✅ | 1.04% |
-| 13 | Microsoft Edge | `89` | | ✅ | 1.01% |
-| 14 | Firefox | `88` | | ✅ | 1.01% |
-| 15 | Microsoft Edge | `92` | | ✅ | 0.91% |
-| 16 | Microsoft Edge | `90` | | ✅ | 0.9% |
-| 17 | Chrome | `88` | | ✅ | 0.89% |
-| 18 | Firefox | `87` | | ✅ | 0.82% |
-| 19 | Safari | `15` | | ✅ | 0.82% |
-| 20 | Safari | `14` | ✅ | | 0.78% |
-| 21 | Yandex.Browser | `21` | | ✅ | 0.75% |
-| 22 | Firefox | `92` | | ✅ | 0.72% |
-| 23 | Firefox | `94` | | ✅ | 0.7% |
-| 24 | Firefox | `91` | | ✅ | 0.68% |
-| 25 | Microsoft Edge | `96` | | ✅ | 0.67% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `91` | | | ✅ | 13.29% |
+| 2 | Chrome | `89` | | | ✅ | 12.4% |
+| 3 | Chrome | `90` | | | ✅ | 11.14% |
+| 4 | Chrome | `92` | | | ✅ | 9.66% |
+| 5 | Chrome | `96` | | | ✅ | 6.58% |
+| 6 | Chrome | `94` | | | ✅ | 6.25% |
+| 7 | Chrome | `93` | | | ✅ | 5.76% |
+| 8 | Chrome | `95` | | | ✅ | 5.11% |
+| 9 | Safari | `14` | | | ✅ | 3.88% |
+| 10 | Safari | `13` | | | ✅ | 1.59% |
+| 11 | Microsoft Edge | `91` | | | ✅ | 1.21% |
+| 12 | Firefox | `89` | | | ✅ | 1.04% |
+| 13 | Microsoft Edge | `89` | | | ✅ | 1.01% |
+| 14 | Firefox | `88` | | | ✅ | 1.01% |
+| 15 | Microsoft Edge | `92` | | | ✅ | 0.91% |
+| 16 | Microsoft Edge | `90` | | | ✅ | 0.9% |
+| 17 | Chrome | `88` | | | ✅ | 0.89% |
+| 18 | Firefox | `87` | | | ✅ | 0.82% |
+| 19 | Safari | `15` | | | ✅ | 0.82% |
+| 20 | Safari | `14` | ✅ | | | 0.78% |
+| 21 | Yandex.Browser | `21` | | | ✅ | 0.75% |
+| 22 | Firefox | `92` | | | ✅ | 0.72% |
+| 23 | Firefox | `94` | | | ✅ | 0.7% |
+| 24 | Firefox | `91` | | | ✅ | 0.68% |
+| 25 | Microsoft Edge | `96` | | | ✅ | 0.67% |
 
 ### 2021 (by vendor)
 | Rank | User Agent | Percentage |

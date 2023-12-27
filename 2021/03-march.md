@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### March 2021 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `89` | | ✅ | 63.73% |
-| 2 | Chrome | `88` | | ✅ | 5.9% |
-| 3 | Microsoft Edge | `89` | | ✅ | 5.6% |
-| 4 | Safari | `14` | | ✅ | 5.29% |
-| 5 | Firefox | `86` | | ✅ | 3.95% |
-| 6 | Firefox | `87` | | ✅ | 2.21% |
-| 7 | Safari | `13` | | ✅ | 1.67% |
-| 8 | Safari | `14` | ✅ | | 1.34% |
-| 9 | Chrome | `89` | ✅ | | 1.01% |
-| 10 | Chrome | `87` | | ✅ | 0.9% |
-| 11 | Opera | `74` | | ✅ | 0.75% |
-| 12 | Firefox | `78` | | ✅ | 0.6% |
-| 13 | Yandex.Browser | `21` | | ✅ | 0.54% |
-| 14 | Chrome | `86` | | ✅ | 0.46% |
-| 15 | Chrome | `87` | ✅ | | 0.38% |
-| 16 | Chrome | `90` | | ✅ | 0.38% |
-| 17 | Chrome v87 (Tablet) | `87` | | ✅ | 0.33% |
-| 18 | Opera | `73` | | ✅ | 0.31% |
-| 19 | Safari | `12` | | ✅ | 0.31% |
-| 20 | Safari | `11` | | ✅ | 0.23% |
-| 21 | Chrome | `88` | ✅ | | 0.23% |
-| 22 | Chrome | `80` | | ✅ | 0.16% |
-| 23 | Samsung Browser | `13` | ✅ | | 0.16% |
-| 24 | Chrome | `86` | ✅ | | 0.15% |
-| 25 | Chrome | `91` | | ✅ | 0.13% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `89` | | | ✅ | 63.73% |
+| 2 | Chrome | `88` | | | ✅ | 5.9% |
+| 3 | Microsoft Edge | `89` | | | ✅ | 5.6% |
+| 4 | Safari | `14` | | | ✅ | 5.29% |
+| 5 | Firefox | `86` | | | ✅ | 3.95% |
+| 6 | Firefox | `87` | | | ✅ | 2.21% |
+| 7 | Safari | `13` | | | ✅ | 1.67% |
+| 8 | Safari | `14` | ✅ | | | 1.34% |
+| 9 | Chrome | `89` | ✅ | | | 1.01% |
+| 10 | Chrome | `87` | | | ✅ | 0.9% |
+| 11 | Opera | `74` | | | ✅ | 0.75% |
+| 12 | Firefox | `78` | | | ✅ | 0.6% |
+| 13 | Yandex.Browser | `21` | | | ✅ | 0.54% |
+| 14 | Chrome | `86` | | | ✅ | 0.46% |
+| 15 | Chrome | `87` | ✅ | | | 0.38% |
+| 16 | Chrome | `90` | | | ✅ | 0.38% |
+| 17 | Chrome | `87` | | ✅ | | 0.33% |
+| 18 | Opera | `73` | | | ✅ | 0.31% |
+| 19 | Safari | `12` | | | ✅ | 0.31% |
+| 20 | Safari | `11` | | | ✅ | 0.23% |
+| 21 | Chrome | `88` | ✅ | | | 0.23% |
+| 22 | Chrome | `80` | | | ✅ | 0.16% |
+| 23 | Samsung Browser | `13` | ✅ | | | 0.16% |
+| 24 | Chrome | `86` | ✅ | | | 0.15% |
+| 25 | Chrome | `91` | | | ✅ | 0.13% |
 
 ### March 2021 (by vendor)
 | Rank | User Agent | Percentage |

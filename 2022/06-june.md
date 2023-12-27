@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### June 2022 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `102` | | ✅ | 53.54% |
-| 2 | Yandex.Browser | `22` | | ✅ | 7.28% |
-| 3 | Chrome | `103` | | ✅ | 5.53% |
-| 4 | Chrome | `101` | | ✅ | 5.34% |
-| 5 | Firefox | `101` | | ✅ | 5.1% |
-| 6 | Microsoft Edge | `102` | | ✅ | 4.88% |
-| 7 | Safari | `15` | | ✅ | 3.58% |
-| 8 | Chrome | `100` | | ✅ | 1.9% |
-| 9 | Chrome | `102` | ✅ | | 1.23% |
-| 10 | Opera | `87` | | ✅ | 1.12% |
-| 11 | Safari | `15` | ✅ | | 0.96% |
-| 12 | Microsoft Edge | `103` | | ✅ | 0.92% |
-| 13 | Safari | `13` | | ✅ | 0.81% |
-| 14 | Safari | `14` | | ✅ | 0.74% |
-| 15 | Firefox | `100` | | ✅ | 0.73% |
-| 16 | Microsoft Edge | `101` | | ✅ | 0.73% |
-| 17 | Opera | `86` | | ✅ | 0.41% |
-| 18 | Chrome | `99` | | ✅ | 0.32% |
-| 19 | Chrome | `89` | | ✅ | 0.31% |
-| 20 | Firefox | `102` | | ✅ | 0.29% |
-| 21 | Chrome | `98` | | ✅ | 0.25% |
-| 22 | Firefox | `91` | | ✅ | 0.21% |
-| 23 | Chrome | `97` | | ✅ | 0.2% |
-| 24 | Chrome | `81` | | ✅ | 0.2% |
-| 25 | Chrome | `101` | ✅ | | 0.2% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `102` | | | ✅ | 53.54% |
+| 2 | Yandex.Browser | `22` | | | ✅ | 7.28% |
+| 3 | Chrome | `103` | | | ✅ | 5.53% |
+| 4 | Chrome | `101` | | | ✅ | 5.34% |
+| 5 | Firefox | `101` | | | ✅ | 5.1% |
+| 6 | Microsoft Edge | `102` | | | ✅ | 4.88% |
+| 7 | Safari | `15` | | | ✅ | 3.58% |
+| 8 | Chrome | `100` | | | ✅ | 1.9% |
+| 9 | Chrome | `102` | ✅ | | | 1.23% |
+| 10 | Opera | `87` | | | ✅ | 1.12% |
+| 11 | Safari | `15` | ✅ | | | 0.96% |
+| 12 | Microsoft Edge | `103` | | | ✅ | 0.92% |
+| 13 | Safari | `13` | | | ✅ | 0.81% |
+| 14 | Safari | `14` | | | ✅ | 0.74% |
+| 15 | Firefox | `100` | | | ✅ | 0.73% |
+| 16 | Microsoft Edge | `101` | | | ✅ | 0.73% |
+| 17 | Opera | `86` | | | ✅ | 0.41% |
+| 18 | Chrome | `99` | | | ✅ | 0.32% |
+| 19 | Chrome | `89` | | | ✅ | 0.31% |
+| 20 | Firefox | `102` | | | ✅ | 0.29% |
+| 21 | Chrome | `98` | | | ✅ | 0.25% |
+| 22 | Firefox | `91` | | | ✅ | 0.21% |
+| 23 | Chrome | `97` | | | ✅ | 0.2% |
+| 24 | Chrome | `81` | | | ✅ | 0.2% |
+| 25 | Chrome | `101` | ✅ | | | 0.2% |
 
 ### June 2022 (by vendor)
 | Rank | User Agent | Percentage |

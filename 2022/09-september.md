@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### September 2022 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `105` | | ✅ | 45.91% |
-| 2 | Chrome | `104` | | ✅ | 17.5% |
-| 3 | Microsoft Edge | `105` | | ✅ | 5.77% |
-| 4 | Safari | `15` | | ✅ | 3.62% |
-| 5 | Firefox | `104` | | ✅ | 3.4% |
-| 6 | Chrome | `105` | ✅ | | 2.56% |
-| 7 | Chrome | `103` | | ✅ | 2.14% |
-| 8 | Safari | `15` | ✅ | | 2.04% |
-| 9 | Microsoft Edge | `104` | | ✅ | 1.43% |
-| 10 | Opera | `90` | | ✅ | 1.35% |
-| 11 | Chrome | `104` | ✅ | | 1.29% |
-| 12 | Safari v15 (Tablet) | `15` | | ✅ | 1.23% |
-| 13 | Firefox | `105` | | ✅ | 1.2% |
-| 14 | Chrome | `106` | | ✅ | 1.17% |
-| 15 | Yandex.Browser | `22` | | ✅ | 0.76% |
-| 16 | Safari | `16` | | ✅ | 0.73% |
-| 17 | Safari | `14` | | ✅ | 0.67% |
-| 18 | Safari | `16` | ✅ | | 0.48% |
-| 19 | Safari | `13` | | ✅ | 0.47% |
-| 20 | Chrome | `103` | ✅ | | 0.42% |
-| 21 | Samsung Browser | `18` | ✅ | | 0.42% |
-| 22 | Firefox | `103` | | ✅ | 0.41% |
-| 23 | Chrome | `102` | | ✅ | 0.35% |
-| 24 | Chrome v105 (Tablet) | `105` | | ✅ | 0.26% |
-| 25 | Opera | `89` | | ✅ | 0.21% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `105` | | | ✅ | 45.91% |
+| 2 | Chrome | `104` | | | ✅ | 17.5% |
+| 3 | Microsoft Edge | `105` | | | ✅ | 5.77% |
+| 4 | Safari | `15` | | | ✅ | 3.62% |
+| 5 | Firefox | `104` | | | ✅ | 3.4% |
+| 6 | Chrome | `105` | ✅ | | | 2.56% |
+| 7 | Chrome | `103` | | | ✅ | 2.14% |
+| 8 | Safari | `15` | ✅ | | | 2.04% |
+| 9 | Microsoft Edge | `104` | | | ✅ | 1.43% |
+| 10 | Opera | `90` | | | ✅ | 1.35% |
+| 11 | Chrome | `104` | ✅ | | | 1.29% |
+| 12 | Safari | `15` | | ✅ | | 1.23% |
+| 13 | Firefox | `105` | | | ✅ | 1.2% |
+| 14 | Chrome | `106` | | | ✅ | 1.17% |
+| 15 | Yandex.Browser | `22` | | | ✅ | 0.76% |
+| 16 | Safari | `16` | | | ✅ | 0.73% |
+| 17 | Safari | `14` | | | ✅ | 0.67% |
+| 18 | Safari | `16` | ✅ | | | 0.48% |
+| 19 | Safari | `13` | | | ✅ | 0.47% |
+| 20 | Chrome | `103` | ✅ | | | 0.42% |
+| 21 | Samsung Browser | `18` | ✅ | | | 0.42% |
+| 22 | Firefox | `103` | | | ✅ | 0.41% |
+| 23 | Chrome | `102` | | | ✅ | 0.35% |
+| 24 | Chrome | `105` | | ✅ | | 0.26% |
+| 25 | Opera | `89` | | | ✅ | 0.21% |
 
 ### September 2022 (by vendor)
 | Rank | User Agent | Percentage |

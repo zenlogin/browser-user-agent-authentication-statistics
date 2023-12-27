@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### July 2023 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `114` | | ✅ | 62.22% |
-| 2 | Chrome | `115` | | ✅ | 10.1% |
-| 3 | Firefox | `115` | | ✅ | 3.13% |
-| 4 | Microsoft Edge | `114` | | ✅ | 3% |
-| 5 | Safari | `16` | | ✅ | 2.81% |
-| 6 | Chrome | `114` | ✅ | | 2.66% |
-| 7 | Chrome | `112` | | ✅ | 1.84% |
-| 8 | Chrome | `113` | | ✅ | 1.54% |
-| 9 | Safari | `16` | ✅ | | 0.99% |
-| 10 | Firefox | `114` | | ✅ | 0.99% |
-| 11 | Microsoft Edge | `115` | | ✅ | 0.94% |
-| 12 | Chrome | `103` | | ✅ | 0.92% |
-| 13 | Chrome | `111` | | ✅ | 0.9% |
-| 14 | Chrome | `109` | | ✅ | 0.89% |
-| 15 | Safari | `15` | | ✅ | 0.5% |
-| 16 | Opera | `99` | | ✅ | 0.45% |
-| 17 | Chrome | `108` | | ✅ | 0.45% |
-| 18 | Yandex.Browser | `23` | | ✅ | 0.31% |
-| 19 | Opera | `100` | | ✅ | 0.3% |
-| 20 | Chrome | `115` | ✅ | | 0.27% |
-| 21 | Firefox | `112` | | ✅ | 0.26% |
-| 22 | Safari v16 (Tablet) | `16` | | ✅ | 0.25% |
-| 23 | Chrome | `113` | ✅ | | 0.21% |
-| 24 | Safari | `13` | | ✅ | 0.18% |
-| 25 | Safari | `15` | ✅ | | 0.16% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `114` | | | ✅ | 62.22% |
+| 2 | Chrome | `115` | | | ✅ | 10.1% |
+| 3 | Firefox | `115` | | | ✅ | 3.13% |
+| 4 | Microsoft Edge | `114` | | | ✅ | 3% |
+| 5 | Safari | `16` | | | ✅ | 2.81% |
+| 6 | Chrome | `114` | ✅ | | | 2.66% |
+| 7 | Chrome | `112` | | | ✅ | 1.84% |
+| 8 | Chrome | `113` | | | ✅ | 1.54% |
+| 9 | Safari | `16` | ✅ | | | 0.99% |
+| 10 | Firefox | `114` | | | ✅ | 0.99% |
+| 11 | Microsoft Edge | `115` | | | ✅ | 0.94% |
+| 12 | Chrome | `103` | | | ✅ | 0.92% |
+| 13 | Chrome | `111` | | | ✅ | 0.9% |
+| 14 | Chrome | `109` | | | ✅ | 0.89% |
+| 15 | Safari | `15` | | | ✅ | 0.5% |
+| 16 | Opera | `99` | | | ✅ | 0.45% |
+| 17 | Chrome | `108` | | | ✅ | 0.45% |
+| 18 | Yandex.Browser | `23` | | | ✅ | 0.31% |
+| 19 | Opera | `100` | | | ✅ | 0.3% |
+| 20 | Chrome | `115` | ✅ | | | 0.27% |
+| 21 | Firefox | `112` | | | ✅ | 0.26% |
+| 22 | Safari | `16` | | ✅ | | 0.25% |
+| 23 | Chrome | `113` | ✅ | | | 0.21% |
+| 24 | Safari | `13` | | | ✅ | 0.18% |
+| 25 | Safari | `15` | ✅ | | | 0.16% |
 
 ### July 2023 (by vendor)
 | Rank | User Agent | Percentage |

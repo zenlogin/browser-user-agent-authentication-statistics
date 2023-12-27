@@ -10,33 +10,33 @@ Please visit the
 for more information.
 
 ### September 2021 (by version & device type)
-| Rank | User Agent | Version | Mobile | Desktop | Percentage |
-| :--- | :--- | :--- | :---: | :---: | :--- |
-| 1 | Chrome | `93` | | ✅ | 47.12% |
-| 2 | Chrome | `92` | | ✅ | 14.8% |
-| 3 | Chrome | `94` | | ✅ | 6.8% |
-| 4 | Microsoft Edge | `93` | | ✅ | 4.48% |
-| 5 | Firefox | `92` | | ✅ | 4.04% |
-| 6 | Safari | `14` | | ✅ | 3.81% |
-| 7 | Firefox | `91` | | ✅ | 2.14% |
-| 8 | Chrome | `93` | ✅ | | 1.49% |
-| 9 | Opera | `78` | | ✅ | 1.31% |
-| 10 | Chrome | `91` | | ✅ | 1.3% |
-| 11 | Safari | `13` | | ✅ | 1.13% |
-| 12 | Microsoft Edge | `94` | | ✅ | 1% |
-| 13 | Microsoft Edge | `92` | | ✅ | 0.9% |
-| 14 | Yandex.Browser | `21` | | ✅ | 0.73% |
-| 15 | Safari | `14` | ✅ | | 0.68% |
-| 16 | Safari | `15` | | ✅ | 0.61% |
-| 17 | Chrome | `92` | ✅ | | 0.52% |
-| 18 | Firefox | `93` | | ✅ | 0.45% |
-| 19 | Firefox | `78` | | ✅ | 0.43% |
-| 20 | Chrome | `89` | | ✅ | 0.35% |
-| 21 | Chrome | `88` | | ✅ | 0.31% |
-| 22 | Opera | `79` | | ✅ | 0.28% |
-| 23 | Chrome | `87` | | ✅ | 0.27% |
-| 24 | Safari | `12` | | ✅ | 0.25% |
-| 25 | Chrome | `90` | | ✅ | 0.2% |
+| Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
+| :--- | :--- | :--- | :---: | :---: | :---: | :--- |
+| 1 | Chrome | `93` | | | ✅ | 47.12% |
+| 2 | Chrome | `92` | | | ✅ | 14.8% |
+| 3 | Chrome | `94` | | | ✅ | 6.8% |
+| 4 | Microsoft Edge | `93` | | | ✅ | 4.48% |
+| 5 | Firefox | `92` | | | ✅ | 4.04% |
+| 6 | Safari | `14` | | | ✅ | 3.81% |
+| 7 | Firefox | `91` | | | ✅ | 2.14% |
+| 8 | Chrome | `93` | ✅ | | | 1.49% |
+| 9 | Opera | `78` | | | ✅ | 1.31% |
+| 10 | Chrome | `91` | | | ✅ | 1.3% |
+| 11 | Safari | `13` | | | ✅ | 1.13% |
+| 12 | Microsoft Edge | `94` | | | ✅ | 1% |
+| 13 | Microsoft Edge | `92` | | | ✅ | 0.9% |
+| 14 | Yandex.Browser | `21` | | | ✅ | 0.73% |
+| 15 | Safari | `14` | ✅ | | | 0.68% |
+| 16 | Safari | `15` | | | ✅ | 0.61% |
+| 17 | Chrome | `92` | ✅ | | | 0.52% |
+| 18 | Firefox | `93` | | | ✅ | 0.45% |
+| 19 | Firefox | `78` | | | ✅ | 0.43% |
+| 20 | Chrome | `89` | | | ✅ | 0.35% |
+| 21 | Chrome | `88` | | | ✅ | 0.31% |
+| 22 | Opera | `79` | | | ✅ | 0.28% |
+| 23 | Chrome | `87` | | | ✅ | 0.27% |
+| 24 | Safari | `12` | | | ✅ | 0.25% |
+| 25 | Chrome | `90` | | | ✅ | 0.2% |
 
 ### September 2021 (by vendor)
 | Rank | User Agent | Percentage |
