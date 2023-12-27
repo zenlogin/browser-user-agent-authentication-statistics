@@ -1,7 +1,7 @@
-# Browser & User Agent Authentication Statistics: July 2022
+# Browser & User Agent Authentication Statistics: August 2022
 
 Below you'll find a breakdown of authentication statistics for
-July 2022. This is primarily related to login-actions during an
+August 2022. This is primarily related to login-actions during an
 authentication flow, and limited to <a href="https://zenlogin.co"/>Zenlogin</a>
 sourced data.
 
@@ -9,53 +9,58 @@ Please visit the
 <a href="https://github.com/zenlogin/browser-user-agent-authentication-statistics">source repository</a>
 for more information.
 
-### July 2022 (by version & device type)
+### August 2022 (by version & device type)
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | Chrome | `103` | | | ✅ | 65.68% |
-| 2 | Microsoft Edge | `103` | | | ✅ | 6.35% |
-| 3 | Firefox | `102` | | | ✅ | 5.35% |
-| 4 | Chrome | `102` | | | ✅ | 5.07% |
-| 5 | Safari | `15` | | | ✅ | 3.83% |
-| 6 | Yandex.Browser | `22` | | | ✅ | 1.88% |
-| 7 | Chrome | `103` | ✅ | | | 1.7% |
-| 8 | Safari | `15` | ✅ | | | 1.22% |
-| 9 | Safari | `13` | | | ✅ | 0.8% |
-| 10 | Opera | `88` | | | ✅ | 0.71% |
-| 11 | Chrome | `101` | | | ✅ | 0.6% |
-| 12 | Firefox | `103` | | | ✅ | 0.6% |
-| 13 | Safari | `14` | | | ✅ | 0.57% |
-| 14 | Opera | `89` | | | ✅ | 0.42% |
-| 15 | Firefox | `101` | | | ✅ | 0.33% |
-| 16 | Chrome | `102` | ✅ | | | 0.26% |
-| 17 | Chrome | `100` | | | ✅ | 0.24% |
-| 18 | Chrome | `103` | | ✅ | | 0.22% |
-| 19 | Chrome | `98` | | | ✅ | 0.22% |
-| 20 | Microsoft Edge | `102` | | | ✅ | 0.18% |
-| 21 | Firefox | `91` | | | ✅ | 0.16% |
-| 22 | Chrome | `89` | | | ✅ | 0.13% |
-| 23 | Safari | `12` | | | ✅ | 0.13% |
-| 24 | Chrome | `97` | | | ✅ | 0.13% |
-| 25 | Chrome | `96` | | | ✅ | 0.11% |
+| 1 | Chrome | `104` | | | ✅ | 47.32% |
+| 2 | Chrome | `103` | | | ✅ | 16.58% |
+| 3 | Microsoft Edge | `104` | | | ✅ | 5.88% |
+| 4 | Firefox | `103` | | | ✅ | 4.74% |
+| 5 | Safari | `15` | | | ✅ | 4.05% |
+| 6 | Chrome | `104` | ✅ | | | 3.21% |
+| 7 | Safari | `15` | ✅ | | | 2.25% |
+| 8 | Chrome | `103` | ✅ | | | 1.73% |
+| 9 | Microsoft Edge | `103` | | | ✅ | 1.70% |
+| 10 | Opera | `89` | | | ✅ | 1.25% |
+| 11 | Safari | `15` | | ✅ | | 1.25% |
+| 12 | Firefox | `104` | | | ✅ | 0.83% |
+| 13 | Yandex.Browser | `22` | | | ✅ | 0.78% |
+| 14 | Chrome | `102` | | | ✅ | 0.75% |
+| 15 | Safari | `13` | | | ✅ | 0.49% |
+| 16 | Safari | `14` | | | ✅ | 0.44% |
+| 17 | Samsung Browser | `18` | ✅ | | | 0.33% |
+| 18 | Chrome | `105` | | | ✅ | 0.30% |
+| 19 | Chrome | `104` | | ✅ | | 0.26% |
+| 20 | Firefox | `102` | | | ✅ | 0.24% |
+| 21 | Chrome | `102` | ✅ | | | 0.22% |
+| 22 | Safari | `14` | ✅ | | | 0.19% |
+| 23 | Chrome | `100` | | | ✅ | 0.17% |
+| 24 | Firefox | `91` | | | ✅ | 0.17% |
+| 25 | Chrome | `101` | | | ✅ | 0.17% |
 
-### July 2022 (by vendor)
+### August 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 76.01% |
-| 2 | Firefox | 6.83% |
-| 3 | Safari | 6.7% |
-| 4 | Microsoft Edge | 6.7% |
-| 5 | Yandex.Browser | 1.94% |
-| 6 | Opera | 1.3% |
-| 7 | Samsung Browser | 0.11% |
-| 8 | Google App | 0.11% |
-| 9 | Facebook App | 0.05% |
-| 10 | LINE app | 0.04% |
-| 11 | Yandex app | 0.04% |
-| 12 | Silk | 0.04% |
-| 13 | Opera GX | 0.04% |
-| 14 | DuckDuckGo | 0.02% |
-| 15 | Vivo browser | 0.02% |
-| 16 | Android WebView | 0.02% |
-| 17 | Huawei Browser | 0.02% |
-| 18 | PS4 Web browser | 0.02% |
+| 1 | Chrome | 73.36% |
+| 2 | Safari | 9.21% |
+| 3 | Microsoft Edge | 7.80% |
+| 4 | Firefox | 6.28% |
+| 5 | Opera | 1.53% |
+| 6 | Yandex.Browser | 0.79% |
+| 7 | Samsung Browser | 0.58% |
+| 8 | MIUI Browser | 0.13% |
+| 9 | Google App | 0.07% |
+| 10 | Android WebView | 0.07% |
+| 11 | Ecosia Browser | 0.04% |
+| 12 | Huawei Browser | 0.03% |
+| 13 | DuckDuckGo | 0.03% |
+| 14 | Opera GX | 0.02% |
+| 15 | Atom | 0.01% |
+| 16 | NAVER search App | 0.01% |
+| 17 | Coc Coc | 0.01% |
+| 18 | Yandex app | 0.01% |
+| 19 | Waterfox | 0.01% |
+| 20 | UC Browser | 0.01% |
+| 21 | Silk | 0.01% |
+| 22 | Apple Mail | 0.01% |
+| 23 | Facebook App | 0.01% |

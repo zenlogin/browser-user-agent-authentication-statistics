@@ -13,8 +13,8 @@ for more information.
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
 | 1 | Chrome | `114` | | | ✅ | 11.37% |
-| 2 | Chrome | `119` | | | ✅ | 7.8% |
-| 3 | Chrome | `111` | | | ✅ | 6.9% |
+| 2 | Chrome | `119` | | | ✅ | 7.80% |
+| 3 | Chrome | `111` | | | ✅ | 6.90% |
 | 4 | Chrome | `116` | | | ✅ | 6.64% |
 | 5 | Chrome | `113` | | | ✅ | 6.45% |
 | 6 | Chrome | `112` | | | ✅ | 6.43% |
@@ -41,14 +41,14 @@ for more information.
 ### 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 81% |
+| 1 | Chrome | 81.00% |
 | 2 | Safari | 6.84% |
 | 3 | Firefox | 5.63% |
 | 4 | Microsoft Edge | 4.16% |
 | 5 | Opera | 0.94% |
-| 6 | Google App | 0.4% |
+| 6 | Google App | 0.40% |
 | 7 | Samsung Browser | 0.39% |
-| 8 | Yandex.Browser | 0.3% |
+| 8 | Yandex.Browser | 0.30% |
 | 9 | Avast Secure Browser | 0.04% |
 | 10 | MIUI Browser | 0.04% |
 | 11 | Android WebView | 0.03% |

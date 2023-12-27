@@ -17,7 +17,7 @@ for more information.
 | 3 | Microsoft Edge | `91` | | | ✅ | 5.72% |
 | 4 | Firefox | `89` | | | ✅ | 5.01% |
 | 5 | Safari | `14` | | | ✅ | 4.43% |
-| 6 | Safari | `13` | | | ✅ | 1.8% |
+| 6 | Safari | `13` | | | ✅ | 1.80% |
 | 7 | Opera | `76` | | | ✅ | 1.09% |
 | 8 | Firefox | `88` | | | ✅ | 0.97% |
 | 9 | Chrome | `91` | ✅ | | | 0.97% |

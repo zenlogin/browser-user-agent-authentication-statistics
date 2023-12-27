@@ -17,7 +17,7 @@ for more information.
 | 3 | Chrome | `91` | | | ✅ | 4.34% |
 | 4 | Firefox | `91` | | | ✅ | 3.98% |
 | 5 | Safari | `14` | | | ✅ | 3.92% |
-| 6 | Firefox | `90` | | | ✅ | 2.5% |
+| 6 | Firefox | `90` | | | ✅ | 2.50% |
 | 7 | Chrome | `92` | ✅ | | | 1.77% |
 | 8 | Yandex.Browser | `21` | | | ✅ | 1.66% |
 | 9 | Safari | `13` | | | ✅ | 1.32% |
@@ -50,7 +50,7 @@ for more information.
 | 7 | Google App | 0.21% |
 | 8 | Samsung Browser | 0.18% |
 | 9 | Coc Coc | 0.13% |
-| 10 | Yandex app | 0.1% |
+| 10 | Yandex app | 0.10% |
 | 11 | Android webview | 0.05% |
 | 12 | Silk | 0.05% |
 | 13 | MIUI Browser | 0.04% |

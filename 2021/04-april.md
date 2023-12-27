@@ -46,7 +46,7 @@ for more information.
 | 3 | Firefox | 7.09% |
 | 4 | Microsoft Edge | 5.92% |
 | 5 | Opera | 1.26% |
-| 6 | Yandex.Browser | 0.6% |
+| 6 | Yandex.Browser | 0.60% |
 | 7 | Samsung Browser | 0.18% |
 | 8 | Google App | 0.08% |
 | 9 | Coc Coc | 0.06% |

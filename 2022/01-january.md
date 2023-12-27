@@ -22,14 +22,14 @@ for more information.
 | 8 | Safari | `14` | | | ✅ | 1.46% |
 | 9 | Safari | `13` | | | ✅ | 1.31% |
 | 10 | Opera | `82` | | | ✅ | 1.23% |
-| 11 | Chrome | `97` | ✅ | | | 0.8% |
+| 11 | Chrome | `97` | ✅ | | | 0.80% |
 | 12 | Chrome | `95` | | | ✅ | 0.77% |
-| 13 | Chrome | `96` | ✅ | | | 0.6% |
+| 13 | Chrome | `96` | ✅ | | | 0.60% |
 | 14 | Safari | `15` | ✅ | | | 0.48% |
 | 15 | Chrome | `89` | | | ✅ | 0.43% |
 | 16 | Chrome | `94` | | | ✅ | 0.33% |
 | 17 | Yandex.Browser | `21` | | | ✅ | 0.32% |
-| 18 | Yandex.Browser | `22` | | | ✅ | 0.3% |
+| 18 | Yandex.Browser | `22` | | | ✅ | 0.30% |
 | 19 | Chrome | `91` | | | ✅ | 0.28% |
 | 20 | Firefox | `78` | | | ✅ | 0.27% |
 | 21 | Safari | `14` | ✅ | | | 0.25% |
@@ -42,7 +42,7 @@ for more information.
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
 | 1 | Chrome | 73.44% |
-| 2 | Firefox | 8.3% |
+| 2 | Firefox | 8.30% |
 | 3 | Safari | 7.95% |
 | 4 | Microsoft Edge | 7.78% |
 | 5 | Opera | 1.36% |

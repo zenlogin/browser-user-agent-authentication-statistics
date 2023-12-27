@@ -33,7 +33,7 @@ for more information.
 | 19 | Safari | `16` | | ✅ | | 0.34% |
 | 20 | Yandex.Browser | `23` | | | ✅ | 0.31% |
 | 21 | Chrome | `92` | | | ✅ | 0.23% |
-| 22 | Safari | `13` | | | ✅ | 0.2% |
+| 22 | Safari | `13` | | | ✅ | 0.20% |
 | 23 | Opera | `96` | | | ✅ | 0.17% |
 | 24 | Safari | `14` | | | ✅ | 0.15% |
 | 25 | Firefox | `102` | | | ✅ | 0.14% |
@@ -41,7 +41,7 @@ for more information.
 ### April 2023 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 82.5% |
+| 1 | Chrome | 82.50% |
 | 2 | Firefox | 6.36% |
 | 3 | Safari | 5.05% |
 | 4 | Microsoft Edge | 4.31% |

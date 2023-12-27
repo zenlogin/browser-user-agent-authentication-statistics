@@ -12,7 +12,7 @@ for more information.
 ### May 2022 (by version & device type)
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | Chrome | `101` | | | ✅ | 51.7% |
+| 1 | Chrome | `101` | | | ✅ | 51.70% |
 | 2 | Chrome | `100` | | | ✅ | 14.02% |
 | 3 | Microsoft Edge | `101` | | | ✅ | 6.64% |
 | 4 | Firefox | `100` | | | ✅ | 5.61% |
@@ -20,7 +20,7 @@ for more information.
 | 6 | Safari | `15` | | | ✅ | 3.77% |
 | 7 | Chrome | `101` | ✅ | | | 1.97% |
 | 8 | Firefox | `99` | | | ✅ | 1.32% |
-| 9 | Safari | `15` | ✅ | | | 1% |
+| 9 | Safari | `15` | ✅ | | | 1.00% |
 | 10 | Chrome | `99` | | | ✅ | 0.78% |
 | 11 | Safari | `13` | | | ✅ | 0.68% |
 | 12 | Opera | `86` | | | ✅ | 0.67% |
@@ -41,9 +41,9 @@ for more information.
 ### May 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 76.6% |
+| 1 | Chrome | 76.60% |
 | 2 | Firefox | 7.76% |
-| 3 | Microsoft Edge | 7.1% |
+| 3 | Microsoft Edge | 7.10% |
 | 4 | Safari | 6.39% |
 | 5 | Opera | 1.15% |
 | 6 | Yandex.Browser | 0.43% |

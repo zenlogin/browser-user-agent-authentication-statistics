@@ -16,13 +16,13 @@ for more information.
 | 2 | Chrome | `118` | | | ✅ | 29.68% |
 | 3 | Chrome | `116` | | | ✅ | 6.71% |
 | 4 | Firefox | `118` | | | ✅ | 3.74% |
-| 5 | Microsoft Edge | `117` | | | ✅ | 2% |
+| 5 | Microsoft Edge | `117` | | | ✅ | 2.00% |
 | 6 | Chrome | `117` | ✅ | | | 1.85% |
 | 7 | Microsoft Edge | `118` | | | ✅ | 1.84% |
-| 8 | Safari | `16` | | | ✅ | 1.6% |
+| 8 | Safari | `16` | | | ✅ | 1.60% |
 | 9 | Chrome | `118` | ✅ | | | 1.45% |
 | 10 | Safari | `16` | ✅ | | | 1.26% |
-| 11 | Safari | `17` | | | ✅ | 1.2% |
+| 11 | Safari | `17` | | | ✅ | 1.20% |
 | 12 | Chrome | `115` | | | ✅ | 0.96% |
 | 13 | Opera | `102` | | | ✅ | 0.82% |
 | 14 | Chrome | `109` | | | ✅ | 0.67% |
@@ -42,11 +42,11 @@ for more information.
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
 | 1 | Chrome | 82.77% |
-| 2 | Safari | 5.4% |
+| 2 | Safari | 5.40% |
 | 3 | Firefox | 5.28% |
 | 4 | Microsoft Edge | 4.13% |
 | 5 | Opera | 1.07% |
-| 6 | Google App | 0.5% |
+| 6 | Google App | 0.50% |
 | 7 | Samsung Browser | 0.26% |
 | 8 | Yandex.Browser | 0.25% |
 | 9 | Avast Secure Browser | 0.09% |

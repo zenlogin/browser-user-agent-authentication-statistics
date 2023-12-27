@@ -33,8 +33,8 @@ for more information.
 | 19 | Chrome | `94` | | | ✅ | 0.28% |
 | 20 | Firefox | `91` | | | ✅ | 0.21% |
 | 21 | Chrome | `95` | | | ✅ | 0.21% |
-| 22 | Microsoft Edge | `96` | | | ✅ | 0.2% |
-| 23 | Chrome | `96` | ✅ | | | 0.2% |
+| 22 | Microsoft Edge | `96` | | | ✅ | 0.20% |
+| 23 | Chrome | `96` | ✅ | | | 0.20% |
 | 24 | Chrome | `91` | | | ✅ | 0.18% |
 | 25 | Chrome | `98` | | ✅ | | 0.18% |
 
@@ -43,9 +43,9 @@ for more information.
 | :--- | :--- | :--- |
 | 1 | Chrome | 74.35% |
 | 2 | Firefox | 8.41% |
-| 3 | Safari | 7.8% |
+| 3 | Safari | 7.80% |
 | 4 | Microsoft Edge | 6.99% |
-| 5 | Opera | 1.2% |
+| 5 | Opera | 1.20% |
 | 6 | Yandex.Browser | 0.72% |
 | 7 | Google App | 0.18% |
 | 8 | Yandex app | 0.07% |

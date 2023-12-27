@@ -16,7 +16,7 @@ for more information.
 | 2 | Chrome | `95` | | | ✅ | 13.54% |
 | 3 | Microsoft Edge | `94` | | | ✅ | 5.09% |
 | 4 | Chrome | `93` | | | ✅ | 4.29% |
-| 5 | Firefox | `93` | | | ✅ | 4.1% |
+| 5 | Firefox | `93` | | | ✅ | 4.10% |
 | 6 | Firefox | `92` | | | ✅ | 2.46% |
 | 7 | Safari | `14` | | | ✅ | 2.39% |
 | 8 | Safari | `15` | | | ✅ | 1.89% |
@@ -29,7 +29,7 @@ for more information.
 | 15 | Yandex.Browser | `21` | | | ✅ | 0.62% |
 | 16 | Chrome | `91` | | | ✅ | 0.48% |
 | 17 | Opera | `80` | | | ✅ | 0.46% |
-| 18 | Chrome | `94` | | ✅ | | 0.4% |
+| 18 | Chrome | `94` | | ✅ | | 0.40% |
 | 19 | Chrome | `89` | | | ✅ | 0.37% |
 | 20 | Firefox | `94` | | | ✅ | 0.27% |
 | 21 | Chrome | `93` | ✅ | | | 0.24% |
@@ -42,14 +42,14 @@ for more information.
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
 | 1 | Chrome | 74.98% |
-| 2 | Safari | 7.5% |
+| 2 | Safari | 7.50% |
 | 3 | Firefox | 7.37% |
 | 4 | Microsoft Edge | 6.91% |
 | 5 | Opera | 1.75% |
 | 6 | Yandex.Browser | 0.72% |
 | 7 | Samsung Browser | 0.22% |
 | 8 | Google App | 0.17% |
-| 9 | Coc Coc | 0.1% |
+| 9 | Coc Coc | 0.10% |
 | 10 | Silk | 0.09% |
 | 11 | Yandex app | 0.06% |
 | 12 | Huawei Browser | 0.03% |

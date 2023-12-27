@@ -16,7 +16,7 @@ for more information.
 | 2 | Chrome | `113` | | | ✅ | 15.55% |
 | 3 | Firefox | `114` | | | ✅ | 3.46% |
 | 4 | Microsoft Edge | `114` | | | ✅ | 3.05% |
-| 5 | Chrome | `112` | | | ✅ | 3% |
+| 5 | Chrome | `112` | | | ✅ | 3.00% |
 | 6 | Safari | `16` | | | ✅ | 2.71% |
 | 7 | Chrome | `114` | ✅ | | | 1.63% |
 | 8 | Firefox | `113` | | | ✅ | 1.51% |
@@ -26,7 +26,7 @@ for more information.
 | 12 | Chrome | `109` | | | ✅ | 0.78% |
 | 13 | Chrome | `113` | ✅ | | | 0.72% |
 | 14 | Safari | `15` | | | ✅ | 0.61% |
-| 15 | Microsoft Edge | `113` | | | ✅ | 0.6% |
+| 15 | Microsoft Edge | `113` | | | ✅ | 0.60% |
 | 16 | Opera | `99` | | | ✅ | 0.49% |
 | 17 | Chrome | `108` | | | ✅ | 0.41% |
 | 18 | Chrome | `110` | | | ✅ | 0.34% |

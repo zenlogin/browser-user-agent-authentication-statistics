@@ -13,10 +13,10 @@ for more information.
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
 | 1 | Chrome | `105` | | | ✅ | 45.91% |
-| 2 | Chrome | `104` | | | ✅ | 17.5% |
+| 2 | Chrome | `104` | | | ✅ | 17.50% |
 | 3 | Microsoft Edge | `105` | | | ✅ | 5.77% |
 | 4 | Safari | `15` | | | ✅ | 3.62% |
-| 5 | Firefox | `104` | | | ✅ | 3.4% |
+| 5 | Firefox | `104` | | | ✅ | 3.40% |
 | 6 | Chrome | `105` | ✅ | | | 2.56% |
 | 7 | Chrome | `103` | | | ✅ | 2.14% |
 | 8 | Safari | `15` | ✅ | | | 2.04% |
@@ -24,7 +24,7 @@ for more information.
 | 10 | Opera | `90` | | | ✅ | 1.35% |
 | 11 | Chrome | `104` | ✅ | | | 1.29% |
 | 12 | Safari | `15` | | ✅ | | 1.23% |
-| 13 | Firefox | `105` | | | ✅ | 1.2% |
+| 13 | Firefox | `105` | | | ✅ | 1.20% |
 | 14 | Chrome | `106` | | | ✅ | 1.17% |
 | 15 | Yandex.Browser | `22` | | | ✅ | 0.76% |
 | 16 | Safari | `16` | | | ✅ | 0.73% |

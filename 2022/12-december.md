@@ -20,17 +20,17 @@ for more information.
 | 6 | Safari | `16` | | | ✅ | 2.66% |
 | 7 | Firefox | `108` | | | ✅ | 2.66% |
 | 8 | Safari | `15` | | | ✅ | 2.18% |
-| 9 | Microsoft Edge | `107` | | | ✅ | 2% |
+| 9 | Microsoft Edge | `107` | | | ✅ | 2.00% |
 | 10 | Safari | `16` | ✅ | | | 1.81% |
 | 11 | Chrome | `107` | ✅ | | | 1.34% |
 | 12 | Chrome | `103` | | | ✅ | 1.05% |
 | 13 | Yandex.Browser | `22` | | | ✅ | 0.98% |
 | 14 | Opera | `93` | | | ✅ | 0.88% |
 | 15 | Chrome | `106` | | | ✅ | 0.74% |
-| 16 | Safari | `15` | ✅ | | | 0.5% |
+| 16 | Safari | `15` | ✅ | | | 0.50% |
 | 17 | Safari | `15` | | ✅ | | 0.46% |
 | 18 | Safari | `13` | | | ✅ | 0.42% |
-| 19 | Safari | `16` | | ✅ | | 0.4% |
+| 19 | Safari | `16` | | ✅ | | 0.40% |
 | 20 | Safari | `14` | | | ✅ | 0.37% |
 | 21 | Opera | `92` | | | ✅ | 0.29% |
 | 22 | Chrome | `108` | | ✅ | | 0.28% |
@@ -44,7 +44,7 @@ for more information.
 | 1 | Chrome | 73.28% |
 | 2 | Safari | 8.99% |
 | 3 | Microsoft Edge | 7.47% |
-| 4 | Firefox | 6.6% |
+| 4 | Firefox | 6.60% |
 | 5 | Opera | 1.56% |
 | 6 | Yandex.Browser | 1.02% |
 | 7 | Samsung Browser | 0.41% |

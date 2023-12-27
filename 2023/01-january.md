@@ -32,7 +32,7 @@ for more information.
 | 18 | Opera | `93` | | | ✅ | 0.42% |
 | 19 | Safari | `14` | | | ✅ | 0.42% |
 | 20 | Chrome | `107` | ✅ | | | 0.42% |
-| 21 | Safari | `15` | | ✅ | | 0.4% |
+| 21 | Safari | `15` | | ✅ | | 0.40% |
 | 22 | Safari | `15` | ✅ | | | 0.37% |
 | 23 | Samsung Browser | `19` | ✅ | | | 0.26% |
 | 24 | Firefox | `105` | | | ✅ | 0.26% |
@@ -44,12 +44,12 @@ for more information.
 | 1 | Chrome | 74.42% |
 | 2 | Safari | 8.44% |
 | 3 | Microsoft Edge | 7.13% |
-| 4 | Firefox | 6.8% |
-| 5 | Opera | 1.5% |
-| 6 | Yandex.Browser | 0.8% |
+| 4 | Firefox | 6.80% |
+| 5 | Opera | 1.50% |
+| 6 | Yandex.Browser | 0.80% |
 | 7 | Samsung Browser | 0.34% |
 | 8 | Google App | 0.13% |
-| 9 | MIUI Browser | 0.1% |
+| 9 | MIUI Browser | 0.10% |
 | 10 | Silk | 0.05% |
 | 11 | Facebook App | 0.05% |
 | 12 | DuckDuckGo | 0.04% |

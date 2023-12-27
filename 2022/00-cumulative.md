@@ -43,11 +43,11 @@ for more information.
 | :--- | :--- | :--- |
 | 1 | Chrome | 73.79% |
 | 2 | Safari | 8.23% |
-| 3 | Microsoft Edge | 7.5% |
+| 3 | Microsoft Edge | 7.50% |
 | 4 | Firefox | 6.87% |
 | 5 | Opera | 1.46% |
-| 6 | Yandex.Browser | 1.4% |
-| 7 | Samsung Browser | 0.3% |
+| 6 | Yandex.Browser | 1.40% |
+| 7 | Samsung Browser | 0.30% |
 | 8 | Google App | 0.11% |
 | 9 | MIUI Browser | 0.05% |
 | 10 | Android WebView | 0.03% |

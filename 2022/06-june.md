@@ -16,10 +16,10 @@ for more information.
 | 2 | Yandex.Browser | `22` | | | ✅ | 7.28% |
 | 3 | Chrome | `103` | | | ✅ | 5.53% |
 | 4 | Chrome | `101` | | | ✅ | 5.34% |
-| 5 | Firefox | `101` | | | ✅ | 5.1% |
+| 5 | Firefox | `101` | | | ✅ | 5.10% |
 | 6 | Microsoft Edge | `102` | | | ✅ | 4.88% |
 | 7 | Safari | `15` | | | ✅ | 3.58% |
-| 8 | Chrome | `100` | | | ✅ | 1.9% |
+| 8 | Chrome | `100` | | | ✅ | 1.90% |
 | 9 | Chrome | `102` | ✅ | | | 1.23% |
 | 10 | Opera | `87` | | | ✅ | 1.12% |
 | 11 | Safari | `15` | ✅ | | | 0.96% |
@@ -34,16 +34,16 @@ for more information.
 | 20 | Firefox | `102` | | | ✅ | 0.29% |
 | 21 | Chrome | `98` | | | ✅ | 0.25% |
 | 22 | Firefox | `91` | | | ✅ | 0.21% |
-| 23 | Chrome | `97` | | | ✅ | 0.2% |
-| 24 | Chrome | `81` | | | ✅ | 0.2% |
-| 25 | Chrome | `101` | ✅ | | | 0.2% |
+| 23 | Chrome | `97` | | | ✅ | 0.20% |
+| 24 | Chrome | `81` | | | ✅ | 0.20% |
+| 25 | Chrome | `101` | ✅ | | | 0.20% |
 
 ### June 2022 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 70.5% |
+| 1 | Chrome | 70.50% |
 | 2 | Yandex.Browser | 7.47% |
-| 3 | Firefox | 6.7% |
+| 3 | Firefox | 6.70% |
 | 4 | Microsoft Edge | 6.61% |
 | 5 | Safari | 6.48% |
 | 6 | Opera | 1.76% |
