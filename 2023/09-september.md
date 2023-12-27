@@ -49,20 +49,20 @@ for more information.
 | 6 | Google App | 0.45% |
 | 7 | Yandex.Browser | 0.21% |
 | 8 | Samsung Browser | 0.21% |
-| 9 | cURL | 0.13% |
-| 10 | Yandex app | 0.05% |
-| 11 | MIUI Browser | 0.04% |
-| 12 | Android WebView | 0.04% |
-| 13 | Avast Secure Browser | 0.03% |
-| 14 | Whale | 0.03% |
-| 15 | Opera GX | 0.02% |
-| 16 | Huawei Browser | 0.02% |
-| 17 | Sogou Explorer | 0.01% |
-| 18 | QQbrowser | 0.01% |
-| 19 | Vivo browser | 0.01% |
-| 20 | DuckDuckGo | 0.01% |
-| 21 | Pale Moon | 0.01% |
-| 22 | UC Browser | 0.01% |
-| 23 | Facebook App | 0.01% |
-| 24 | Bing Search App | 0.01% |
-| 25 | TelegramBot | 0.01% |
+| 9 | Yandex app | 0.05% |
+| 10 | MIUI Browser | 0.04% |
+| 11 | Android WebView | 0.04% |
+| 12 | Avast Secure Browser | 0.03% |
+| 13 | Whale | 0.03% |
+| 14 | Opera GX | 0.02% |
+| 15 | Huawei Browser | 0.02% |
+| 16 | Sogou Explorer | 0.01% |
+| 17 | QQbrowser | 0.01% |
+| 18 | Vivo browser | 0.01% |
+| 19 | DuckDuckGo | 0.01% |
+| 20 | Pale Moon | 0.01% |
+| 21 | UC Browser | 0.01% |
+| 22 | Facebook App | 0.01% |
+| 23 | Bing Search App | 0.01% |
+| 24 | TelegramBot | 0.01% |
+| 25 | Phoenix Browser | 0.01% |

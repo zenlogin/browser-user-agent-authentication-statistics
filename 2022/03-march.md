@@ -48,18 +48,17 @@ for more information.
 | 5 | Opera | 1.29% |
 | 6 | Yandex.Browser | 0.99% |
 | 7 | Google App | 0.09% |
-| 8 | cURL | 0.09% |
-| 9 | Samsung Browser | 0.08% |
-| 10 | DuckDuckGo | 0.06% |
-| 11 | Silk | 0.05% |
-| 12 | Huawei Browser | 0.02% |
-| 13 | Sogou Explorer | 0.02% |
-| 14 | Electron App | 0.02% |
-| 15 | Yandex app | 0.02% |
-| 16 | Waterfox | 0.02% |
-| 17 | Mypal | 0.02% |
-| 18 | Android WebView | 0.02% |
-| 19 | Facebook App | 0.02% |
-| 20 | Iron | 0.02% |
-| 21 | Lovense Browser | 0.02% |
-| 22 | Opera Touch | 0.02% |
+| 8 | Samsung Browser | 0.08% |
+| 9 | DuckDuckGo | 0.06% |
+| 10 | Silk | 0.05% |
+| 11 | Huawei Browser | 0.02% |
+| 12 | Sogou Explorer | 0.02% |
+| 13 | Electron App | 0.02% |
+| 14 | Yandex app | 0.02% |
+| 15 | Waterfox | 0.02% |
+| 16 | Mypal | 0.02% |
+| 17 | Android WebView | 0.02% |
+| 18 | Facebook App | 0.02% |
+| 19 | Iron | 0.02% |
+| 20 | Lovense Browser | 0.02% |
+| 21 | Opera Touch | 0.02% |

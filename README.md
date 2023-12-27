@@ -105,8 +105,8 @@ If you're looking for structured data, please contact [github@zenlogin.co](mailt
 | 18 | Huawei Browser | 0.01% |
 | 19 | Opera GX | 0.01% |
 | 20 | AVG Secure Browser | 0.01% |
-| 21 | cURL | 0.01% |
-| 22 | Sogou Explorer | 0.01% |
-| 23 | QQmail App | 0.01% |
-| 24 | Phoenix Browser | 0.01% |
-| 25 | Lenovo Browser | 0.01% |
+| 21 | Sogou Explorer | 0.01% |
+| 22 | QQmail App | 0.01% |
+| 23 | Phoenix Browser | 0.01% |
+| 24 | Lenovo Browser | 0.01% |
+| 25 | WeChat App | 0.01% |

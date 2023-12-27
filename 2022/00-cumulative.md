@@ -63,5 +63,4 @@ for more information.
 | 20 | Lenovo Browser | 0.01% |
 | 21 | Apple Mail | 0.01% |
 | 22 | Waterfox | 0.01% |
-| 23 | cURL | 0.01% |
-| 24 | Ecosia Browser | 0.01% |
+| 23 | Ecosia Browser | 0.01% |
