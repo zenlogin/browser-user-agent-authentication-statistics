@@ -1,7 +1,7 @@
-# Browser & User Agent Authentication Statistics: January 2022
+# Browser & User Agent Authentication Statistics: January 2025
 
 Below you'll find a breakdown of authentication statistics for
-January 2022. This is primarily related to login-actions during an
+January 2025. This is primarily related to login-actions during an
 authentication flow, and limited to <a href="https://zenlogin.co"/>Zenlogin</a>
 sourced data.
 
