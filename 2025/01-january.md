@@ -12,49 +12,52 @@ for more information.
 ### January 2025 (by version & device type)
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | Chrome | `97` | | | ✅ | 44.58% |
-| 2 | Chrome | `96` | | | ✅ | 23.52% |
-| 3 | Microsoft Edge | `97` | | | ✅ | 5.16% |
-| 4 | Safari | `15` | | | ✅ | 4.16% |
-| 5 | Firefox | `96` | | | ✅ | 3.81% |
-| 6 | Firefox | `95` | | | ✅ | 3.39% |
-| 7 | Microsoft Edge | `96` | | | ✅ | 2.46% |
-| 8 | Safari | `14` | | | ✅ | 1.46% |
-| 9 | Safari | `13` | | | ✅ | 1.31% |
-| 10 | Opera | `82` | | | ✅ | 1.23% |
-| 11 | Chrome | `97` | ✅ | | | 0.80% |
-| 12 | Chrome | `95` | | | ✅ | 0.77% |
-| 13 | Chrome | `96` | ✅ | | | 0.60% |
-| 14 | Safari | `15` | ✅ | | | 0.48% |
-| 15 | Chrome | `89` | | | ✅ | 0.43% |
-| 16 | Chrome | `94` | | | ✅ | 0.33% |
-| 17 | Yandex.Browser | `21` | | | ✅ | 0.32% |
-| 18 | Yandex.Browser | `22` | | | ✅ | 0.30% |
-| 19 | Chrome | `91` | | | ✅ | 0.28% |
-| 20 | Firefox | `78` | | | ✅ | 0.27% |
-| 21 | Safari | `14` | ✅ | | | 0.25% |
-| 22 | Chrome | `93` | | | ✅ | 0.23% |
-| 23 | Chrome | `96` | | ✅ | | 0.22% |
-| 24 | Firefox | `97` | | | ✅ | 0.17% |
-| 25 | Chrome | `92` | | | ✅ | 0.15% |
+| 1 | Chrome | `131` | | | ✅ | 36.94% |
+| 2 | Chrome | `132` | | | ✅ | 7.05% |
+| 3 | Safari | `18` | ✅ | | | 6.71% |
+| 4 | Microsoft Edge | `131` | | | ✅ | 6.42% |
+| 5 | Safari | `18` | | | ✅ | 4.96% |
+| 6 | Safari | `17` | | | ✅ | 4.12% |
+| 7 | Chrome | `131` | ✅ | | | 3.60% |
+| 8 | Microsoft Edge | `132` | | | ✅ | 2.77% |
+| 9 | Firefox | `134` | | | ✅ | 2.28% |
+| 10 | Chrome | `132` | ✅ | | | 1.69% |
+| 11 | Safari v | `` | ✅ | | | 1.41% |
+| 12 | Firefox | `133` | | | ✅ | 1.29% |
+| 13 | Chrome | `130` | | | ✅ | 1.20% |
+| 14 | Safari | `17` | ✅ | | | 1.09% |
+| 15 | Safari | `16` | | | ✅ | 0.94% |
+| 16 | Chrome | `128` | | | ✅ | 0.89% |
+| 17 | Samsung Browser | `27` | ✅ | | | 0.85% |
+| 18 | Android WebView v | `` | ✅ | | | 0.62% |
+| 19 | Safari | `15` | | | ✅ | 0.57% |
+| 20 | Chrome | `116` | | | ✅ | 0.56% |
+| 21 | Chrome | `126` | | | ✅ | 0.50% |
+| 22 | Chrome | `129` | | | ✅ | 0.47% |
+| 23 | Safari | `16` | ✅ | | | 0.47% |
+| 24 | Chrome | `109` | | | ✅ | 0.24% |
+| 25 | Chrome | `122` | | | ✅ | 0.22% |
 
 ### January 2025 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
-| 1 | Chrome | 73.44% |
-| 2 | Firefox | 8.30% |
-| 3 | Safari | 7.95% |
-| 4 | Microsoft Edge | 7.78% |
-| 5 | Opera | 1.36% |
-| 6 | Yandex.Browser | 0.62% |
-| 7 | Google App | 0.15% |
-| 8 | Samsung Browser | 0.15% |
-| 9 | Android WebView | 0.07% |
-| 10 | Huawei Browser | 0.03% |
-| 11 | DuckDuckGo | 0.03% |
-| 12 | Pale Moon | 0.02% |
-| 13 | UC Browser | 0.02% |
-| 14 | Apple Mail | 0.02% |
-| 15 | IE | 0.02% |
-| 16 | Waterfox | 0.02% |
-| 17 | Atom | 0.02% |
+| 1 | Chrome | 54.95% |
+| 2 | Safari | 20.45% |
+| 3 | Microsoft Edge | 9.50% |
+| 4 | Firefox | 4.15% |
+| 5 | Samsung Browser | 0.87% |
+| 6 | Android WebView | 0.63% |
+| 7 | Opera | 0.41% |
+| 8 | Google App | 0.33% |
+| 9 | DuckDuckGo | 0.12% |
+| 10 | Avast Secure Browser | 0.06% |
+| 11 | Ecosia Browser | 0.04% |
+| 12 | MIUI Browser | 0.03% |
+| 13 | Yandex.Browser | 0.03% |
+| 14 | Norton Private Browser | 0.03% |
+| 15 | AVG Secure Browser | 0.02% |
+| 16 | CCleaner Browser | 0.01% |
+| 17 | Silk | 0.01% |
+| 18 | Huawei Browser | 0.01% |
+| 19 | PS4 Web browser | 0.01% |
+| 20 | Facebook App | 0.01% |
