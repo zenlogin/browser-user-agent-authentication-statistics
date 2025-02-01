@@ -9,7 +9,7 @@ Please visit the
 <a href="https://github.com/zenlogin/browser-user-agent-authentication-statistics">source repository</a>
 for more information.
 
-### January 2022 (by version & device type)
+### January 2025 (by version & device type)
 | Rank | User Agent | Version | Mobile | Tablet | Desktop | Percentage |
 | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
 | 1 | Chrome | `97` | | | ✅ | 44.58% |
@@ -38,7 +38,7 @@ for more information.
 | 24 | Firefox | `97` | | | ✅ | 0.17% |
 | 25 | Chrome | `92` | | | ✅ | 0.15% |
 
-### January 2022 (by vendor)
+### January 2025 (by vendor)
 | Rank | User Agent | Percentage |
 | :--- | :--- | :--- |
 | 1 | Chrome | 73.44% |
