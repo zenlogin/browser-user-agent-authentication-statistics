@@ -15,6 +15,7 @@ If you're looking for structured data, please contact [github@zenlogin.co](mailt
 ### Breakdown
 | Year | Month | Link |
 | :--- | :--- | :--- |
+| 2025 | June | [link](https://github.com/zenlogin/browser-user-agent-authentication-statistics/blob/main/2025/06-june.md) |
 | 2025 | May | [link](https://github.com/zenlogin/browser-user-agent-authentication-statistics/blob/main/2025/05-may.md) |
 | 2025 | April | [link](https://github.com/zenlogin/browser-user-agent-authentication-statistics/blob/main/2025/04-april.md) |
 | 2025 | March | [link](https://github.com/zenlogin/browser-user-agent-authentication-statistics/blob/main/2025/03-march.md) |
